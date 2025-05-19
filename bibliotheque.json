@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 1,
+        "Titre": "Death Note",
+        "Auteur": "Tsugumi Ohba",
+        "Ann\u00e9e": "2003",
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 2,
+        "Titre": "Hunter x Hunter",
+        "Auteur": "Yoshihiro Togashi",
+        "Ann\u00e9e": "1998",
+        "Lu": true,
+        "Note": null
+    }
+]
